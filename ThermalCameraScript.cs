@@ -28,7 +28,7 @@ public class ThermalCameraScript : MonoBehaviour {
 
 	//--------------------------------
 	
-	bool TV = false; // Thermal Vision
+	bool TV = true; // Thermal Vision
 	Camera cam;
 
 	Material TVPostProcessingMaterial = null;
